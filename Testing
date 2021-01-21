@@ -1,6 +1,6 @@
 var person = prompt("Please enter your username", "");
 
-if (person == "test" || person == "") {
+if (person == "Richard" || person == "") {
   var person = prompt("Please enter you password", "");
   if (person == "test" || person == "") {
     alert("Confirmed");
